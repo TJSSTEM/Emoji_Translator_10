@@ -45,6 +45,7 @@ EMOJI_DICT = {
     "bledsoe when you take 5 ar test in one day": "😣",
     "gaines during science fair week": "☠️",
     "miss amy when she has the all boys class": "🏃‍♀️‍➡️",
+    "cool":random.choice(["😎", "🤙", "🆒"]),
 
 }
 

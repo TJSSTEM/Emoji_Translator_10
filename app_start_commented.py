@@ -40,7 +40,7 @@ EMOJI_DICT = {
     "fire": "🔥",
     "fox when you aren't listening": "😡",
     "creamer when you can't be quiet in the hall": "🤯",
-    "vaughan, when she wakes up": "🫨",
+    "vaughan when she wakes up": "🫨",
     "mr. steve when you miss the bus": "😠",
     "bledsoe when you take 5 ar test in one day": "😣",
     "gaines during science fair week": "☠️",

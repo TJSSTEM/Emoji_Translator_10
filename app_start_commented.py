@@ -81,6 +81,8 @@ words = user_input.lower().split()
 
 # We create a new, empty list to store our translated words.
 translated_words = []
+if "secret"in user_input.lower():
+    st.write("🎉 YOU FOUND THE SECRET! 🎉")
 
 # --- 7. LOOP THROUGH ALL THE WORDS ---
 # This 'for' loop looks at each 'word' in our 'words' list, one by one.

@@ -47,7 +47,6 @@ EMOJI_DICT = {
     "miss amy when she has the all boys class": "🏃‍♀️‍➡️",
     "cool":random.choice(["😎", "🤙", "🆒"]),
     "cooking": "👩‍🍳",
-    "fox": "🦊",
     "puppy": "🐶",
     "sloth": "🦥",
 

@@ -46,6 +46,10 @@ EMOJI_DICT = {
     "gaines during science fair week": "☠️",
     "miss amy when she has the all boys class": "🏃‍♀️‍➡️",
     "cool":random.choice(["😎", "🤙", "🆒"]),
+    "cooking": "👩‍🍳",
+    "fox": "🦊",
+    "puppy": "🐶",
+    "sloth": "🦥",
 
 }
 

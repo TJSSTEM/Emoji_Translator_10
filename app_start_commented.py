@@ -80,9 +80,9 @@ EMOJI_DICT = {
 
     # 👇 ADD YOUR NEW MAGIC WORDS HERE!
 
-"Racing": "🏎️",
-"Gaming": "🎮"
-}
+    "Racing": "🏎️",
+    "Gaming": "🎮"
+    }
     
 # ============================================================
 # ✨ SHOW OUR MAGIC WORDS

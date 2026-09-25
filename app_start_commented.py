@@ -79,13 +79,8 @@ EMOJI_DICT = {
     "pumpkin": "🎃",
 
     # 👇 ADD YOUR NEW MAGIC WORDS HERE!
-    "Travel": "🚗",
-    "Silent": "🔇",
-    "Mystery": "❓",
-    "Man": "🧍🏽",
-    "Gleep": "👽",
-    "tired": "🫩",
-    }
+ "Car": "🏎️",
+    
 # ============================================================
 # ✨ SHOW OUR MAGIC WORDS
 # ============================================================

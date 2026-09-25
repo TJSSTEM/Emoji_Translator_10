@@ -81,7 +81,7 @@ EMOJI_DICT = {
   "love": "🫀",
     "nod": "🙂‍↕️",
     "kanye": "🐐",
-    "chud": "🫵"
+    "chud": "🫵",
     "goat": "kanye"
     
 

@@ -84,7 +84,7 @@ EMOJI_DICT = {
     "Mystery": "❓",
     "Man": "🧍🏽",
     "Gleep": "👽",
-    "Racing Car": "🏎️",
+    "Car": "🏎️",
     }
 # ============================================================
 # ✨ SHOW OUR MAGIC WORDS

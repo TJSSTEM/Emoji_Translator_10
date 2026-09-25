@@ -83,7 +83,7 @@ EMOJI_DICT = {
     "Silent": "🔇",
     "Mystery": "❓",
     "Man": "🧍🏽",
-    "Gleep": "👽",
+    "Gleep": "👽",}
 
 # ============================================================
 # ✨ SHOW OUR MAGIC WORDS

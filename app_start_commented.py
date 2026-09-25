@@ -86,7 +86,8 @@ EMOJI_DICT = {
     "mahoraga": "eight handled sword divergent sila divine general mahoraga",
     "67": "🫩",
     "gojo": "🔴🔵🫴🟣",
-    
+    "music": "🎶",
+    "BL": "👬",
 
     # 👇 ADD YOUR NEW MAGIC WORDS HERE!
     "pregnant man": "🫃",

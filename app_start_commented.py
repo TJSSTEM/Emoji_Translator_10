@@ -88,7 +88,7 @@ EMOJI_DICT = {
     "gojo": "🔴🔵🫴🟣",
     "music": "🎶",
     "BL": "👬",
-
+    "I": "🫵",
     # 👇 ADD YOUR NEW MAGIC WORDS HERE!
     "pregnant man": "🫃",
 }

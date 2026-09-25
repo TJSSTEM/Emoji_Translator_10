@@ -84,6 +84,8 @@ EMOJI_DICT = {
     "chud": "🫵",
     "goat": "kanye",
     "mahoraga": "eight handled sword divergent sila divine general mahoraga",
+    "67": "🫩",
+    "gojo": "🔴🔵🫴🟣"
     
 
     # 👇 ADD YOUR NEW MAGIC WORDS HERE!

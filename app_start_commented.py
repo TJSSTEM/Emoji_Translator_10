@@ -79,11 +79,12 @@ EMOJI_DICT = {
     "pumpkin": "🎃"
 , "brain": "🧠",
   "love": "🫀",
+    
 
     # 👇 ADD YOUR NEW MAGIC WORDS HERE!
     "laptop": "💻",
 }
-    
+    #Xavier Was Here?
 # ============================================================
 # ✨ SHOW OUR MAGIC WORDS
 # ============================================================
@@ -150,7 +151,7 @@ if output_sentence:
 #
 # Remove the # from ONE of them and run your app!
 st.balloons()
-#
+# st.blood()
 # st.snow ()
 # Which one do you like better? 🎈❄️🩸
 

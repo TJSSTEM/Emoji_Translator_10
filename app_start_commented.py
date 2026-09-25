@@ -79,11 +79,11 @@ EMOJI_DICT = {
     "pumpkin": "🎃",
 
     # 👇 ADD YOUR NEW MAGIC WORDS HERE!
-
-
-
-}
-
+    "Travel": "🚗",
+    "Silent": "🔇",
+    "Mystery": "❓",
+    "Man": "🧍🏽",
+    "Gleep": "👽",
 
 # ============================================================
 # ✨ SHOW OUR MAGIC WORDS
@@ -150,10 +150,8 @@ if output_sentence:
 # What do you think these commands do?
 #
 # Remove the # from ONE of them and run your app!
-#
-# st.balloons()
-#
-st.snow ()
+st.balloons()
+#st.snow ()
 # Which one do you like better? 🎈❄️
 
 

@@ -81,6 +81,8 @@ EMOJI_DICT = {
   "love": "🫀",
     "nod": "🙂‍↕️",
     "kanye": "🐐",
+    "chud": "🫵"
+    "goat": "kanye"
     
 
     # 👇 ADD YOUR NEW MAGIC WORDS HERE!
@@ -105,7 +107,7 @@ st.markdown("---")
 
 user_input = st.text_input(
     "Enter your text to translate:",
-    placeholder="Example: I HATE and DESPISE coding with my cat"
+    placeholder="Example: I HATE and DESPISE coding with my DOG"
 )
 
 

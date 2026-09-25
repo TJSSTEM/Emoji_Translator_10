@@ -17,7 +17,7 @@ import streamlit as st
 # - Writing your own welcome message
 
 
-st.title("My Emoji Translator 💬➡️😎")
+st.title("Words Into Emojis 💬➡️😎")
 
 st.write("Turn your words into emojis! 🚀")
 

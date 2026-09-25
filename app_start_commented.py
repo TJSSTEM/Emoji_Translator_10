@@ -80,7 +80,7 @@ EMOJI_DICT = {
   
 
     # 👇 ADD YOUR NEW MAGIC WORDS HERE!
-    "video game": "💻",
+    "laptop": "💻",
 }
     
 # ============================================================

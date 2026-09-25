@@ -21,7 +21,7 @@ st.title("Words Into Emojis by you 💬➡️🎮")
 
 st.write("Turn your words into emojis! 🚀")
 
-st.info("💡 Try typing: I love coding with python and my cat")
+st.info("💡 Try typing: I love coding with python and my cat🐈")
 
 
 # ============================================================
@@ -148,9 +148,9 @@ if output_sentence:
 # What do you think these commands do?
 #
 # Remove the # from ONE of them and run your app!
-#st.balloons()
+st.balloons()
 #
-st.snow ()
+# st.snow ()
 # Which one do you like better? 🎈❄️
 
 

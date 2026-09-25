@@ -78,7 +78,7 @@ EMOJI_DICT = {
     "car": "🏎️",
     "pumpkin": "🎃"
 , "brain": "🧠",
-  
+  "love": "🫀",
 
     # 👇 ADD YOUR NEW MAGIC WORDS HERE!
     "laptop": "💻",

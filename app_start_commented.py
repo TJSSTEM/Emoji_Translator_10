@@ -83,11 +83,10 @@ EMOJI_DICT = {
     "kanye": "🐐",
     "chud": "🫵",
     "goat": "kanye",
-    "eight handled sword divergenet sila divine general mahoraga": "☸️",
+    "mahoraga": "eight handled sword divergent sila divine general mahoraga",
     
 
     # 👇 ADD YOUR NEW MAGIC WORDS HERE!
-    "laptop": "💻",
     "pregnant man": "🫃",
 }
     #Xavier Was Here?

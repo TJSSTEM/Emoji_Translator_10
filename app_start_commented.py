@@ -85,7 +85,7 @@ EMOJI_DICT = {
     "goat": "kanye",
     "mahoraga": "eight handled sword divergent sila divine general mahoraga",
     "67": "🫩",
-    "gojo": "🔴🔵🫴🟣"
+    "gojo": "🔴🔵🫴🟣",
     
 
     # 👇 ADD YOUR NEW MAGIC WORDS HERE!

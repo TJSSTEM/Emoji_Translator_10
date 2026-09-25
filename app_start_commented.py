@@ -79,7 +79,7 @@ EMOJI_DICT = {
     "pumpkin": "🎃",
 
     # 👇 ADD YOUR NEW MAGIC WORDS HERE!
- "Car": "🏎️",
+
     
 # ============================================================
 # ✨ SHOW OUR MAGIC WORDS

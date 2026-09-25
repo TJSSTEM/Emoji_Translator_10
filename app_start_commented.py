@@ -41,7 +41,7 @@ with st.expander("👉 How to use this app"):
 # 🧠 CHALLENGE 2: TEACH THE APP NEW WORDS!
 # ============================================================
 #
-# This dictionary is the "brain" of our translator.
+# This dictionary is the "brain"🧠of our translator.
 #
 # Each word is connected to an emoji:
 #

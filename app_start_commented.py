@@ -80,6 +80,7 @@ EMOJI_DICT = {
 , "brain": "🧠",
   "love": "🫀",
     "nod": "🙂‍↕️",
+    "kanye": "🐐",
     
 
     # 👇 ADD YOUR NEW MAGIC WORDS HERE!
@@ -91,7 +92,7 @@ EMOJI_DICT = {
 # ✨ SHOW OUR MAGIC WORDS
 # ============================================================
 
-st.subheader("✨ Magic Words We Know")
+st.subheader("🔴🔵🫴🟣 Magic Words We Know")
 
 st.write(", ".join(EMOJI_DICT.keys()))
 
@@ -104,7 +105,7 @@ st.markdown("---")
 
 user_input = st.text_input(
     "Enter your text to translate:",
-    placeholder="Example: I love coding with my cat"
+    placeholder="Example: I HATE and DESPISE coding with my cat"
 )
 
 

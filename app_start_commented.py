@@ -76,7 +76,8 @@ EMOJI_DICT = {
     "win": "🏆",
     "python": "🐍",
     "car": "🏎️",
-    "pumpkin": "🎃",
+    "pumpkin": "🎃"
+, "brain": "🧠",
   
 
     # 👇 ADD YOUR NEW MAGIC WORDS HERE!

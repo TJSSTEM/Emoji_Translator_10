@@ -81,8 +81,7 @@ EMOJI_DICT = {
 
     # 👇 ADD YOUR NEW MAGIC WORDS HERE!
 
- 
-    }
+
     
 # ============================================================
 # ✨ SHOW OUR MAGIC WORDS

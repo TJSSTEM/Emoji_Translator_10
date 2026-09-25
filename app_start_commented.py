@@ -17,7 +17,7 @@ import streamlit as st
 # - Writing your own welcome message
 
 
-st.title("Words Into Emojis 💬➡️😎")
+st.title("Words Into Emojis by you 💬➡️😎")
 
 st.write("Turn your words into emojis! 🚀")
 
@@ -80,6 +80,7 @@ EMOJI_DICT = {
 }
     # 👇 ADD YOUR NEW MAGIC WORDS HERE!
 
+"Racing": "🏎️"
     
 # ============================================================
 # ✨ SHOW OUR MAGIC WORDS

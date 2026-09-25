@@ -82,7 +82,7 @@ EMOJI_DICT = {
     "nod": "🙂‍↕️",
     "kanye": "🐐",
     "chud": "🫵",
-    "goat": "kanye"
+    "goat": "kanye",
     
 
     # 👇 ADD YOUR NEW MAGIC WORDS HERE!

@@ -69,6 +69,8 @@ EMOJI_DICT = {
     "sad": "😢",
     "cat": "🐱",
     "dog": "🐶",
+    "Maven": "🤠",
+    "Santa": "🎅🏼",
     "sun": "☀️",
     "coding": "💻",
     "win": "🏆",

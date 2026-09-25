@@ -75,7 +75,7 @@ EMOJI_DICT = {
     "coding": "💻",
     "win": "🏆",
     "python": "🐍",
-    "fire": "🏎️",
+    "car": "🏎️",
     "pumpkin": "🎃",
 
     # 👇 ADD YOUR NEW MAGIC WORDS HERE!
@@ -84,7 +84,6 @@ EMOJI_DICT = {
     "Mystery": "❓",
     "Man": "🧍🏽",
     "Gleep": "👽",
-    "Car": "🏎️",
     }
 # ============================================================
 # ✨ SHOW OUR MAGIC WORDS

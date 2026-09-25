@@ -64,7 +64,7 @@ with st.expander("👉 How to use this app"):
 #
 
 EMOJI_DICT = {
-    "love": "❤️",
+    "scocer": "⚽",
     "happy": "😊",
     "sad": "😢",
     "cat": "🐱",
@@ -84,6 +84,7 @@ EMOJI_DICT = {
     "Mystery": "❓",
     "Man": "🧍🏽",
     "Gleep": "👽",
+    "tired": "🫩",
     }
 # ============================================================
 # ✨ SHOW OUR MAGIC WORDS

@@ -117,7 +117,7 @@ EMOJI_DICT = {
     "dog": "🐶",
     "sun": "☀️",
     "coding": "💻",
-    "win": 🥇",
+    "win": "🥇",
     "python": "🐍",
     "fire": "🔥",
     "dino":"🦖",

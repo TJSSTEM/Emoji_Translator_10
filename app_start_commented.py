@@ -25,7 +25,7 @@ import re
 # st.title("The Crazy Emoji Machine 🤪")
 
 
-st.title("My Emoji Translator 💬➡️😎")
+st.title("My ai emoji translator is cooler than yours!🥳")
 
 st.write("Turn your words into emojis using Python! 🚀")
 

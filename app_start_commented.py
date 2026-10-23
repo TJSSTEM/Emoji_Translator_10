@@ -120,7 +120,7 @@ EMOJI_DICT = {
     "win": "🏆",
     "python": "🐍",
     "fire": "🔥",
-    "dino":"💀,
+    "dino":"💀",
 
     # 👇 ADD 3 NEW MAGIC WORDS HERE!
 

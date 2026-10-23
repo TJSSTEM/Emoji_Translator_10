@@ -120,6 +120,7 @@ EMOJI_DICT = {
     "win": "🏆",
     "python": "🐍",
     "fire": "🔥",
+    "dino":"💀,
 
     # 👇 ADD 3 NEW MAGIC WORDS HERE!
 
@@ -160,7 +161,7 @@ funny_sentences = [
     "The sun is on fire",
     "I win with my cat",
     "My dog loves coding",
-    "My happy cat loves python",
+    "dino rino",
 
     # 👇 BONUS: ADD A FUNNY SENTENCE HERE!
 

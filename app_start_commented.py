@@ -110,17 +110,17 @@ with st.expander("👉 How to use this app"):
 
 
 EMOJI_DICT = {
-    "love": "🐈",
-    "happy": "😊",
-    "sad": "😢",
+    "crazy": "😜",
+    "happy": "😁",
+    "sad": "🙁",
     "cat": "🐱",
     "dog": "🐶",
     "sun": "☀️",
     "coding": "💻",
-    "win": "🏆",
+    "win": 🥇",
     "python": "🐍",
     "fire": "🔥",
-    "dino":"💀",
+    "dino":"🦖",
 
     # 👇 ADD 3 NEW MAGIC WORDS HERE!
 
@@ -155,9 +155,9 @@ st.markdown("---")
 st.subheader("🎲 Need a Funny Sentence?")
 
 funny_sentences = [
-    "My cat loves pizza",
-    "I love python and coding",
-    "My dog is happy",
+    "My cat loves under age turdels with no mom",
+    "I love sad pianos",
+    "My dog is dapressed",
     "The sun is on fire",
     "I win with my cat",
     "My dog loves coding",
